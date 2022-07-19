@@ -1,0 +1,22 @@
+{
+  "name": "bt1",
+  "version": "1.0.0",
+  "description": "Demo by Hung",
+  "main": "index.js",
+  "scripts": {
+    "test": "khong"
+  },
+  "repository": {
+    "type": "git",
+    "url": "khong"
+  },
+  "keywords": [
+    "khong"
+  ],
+  "author": "khong",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}
